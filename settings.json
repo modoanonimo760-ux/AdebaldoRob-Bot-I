@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BedrockEJavaOficial.aternos.me",
+    "ip": "BedrockEJavaOficial.aternos.me:18579",
     "port": 18579,
     "version": "",
     "try-creative": false
